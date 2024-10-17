@@ -1,0 +1,10 @@
+.companies-grid{
+    *{
+        color: var(--text-color1);
+    }
+}
+.css-14mxsc7-MuiDataGrid-root .MuiDataGrid-columnHeader--sortable 
+{
+    cursor: pointer;
+    background-color: var(--bg-color);
+}
